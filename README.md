@@ -14,7 +14,7 @@ Example Image:
 | --- |
 | ![Navigation](https://example.com/navigation.png) |
 
-[Learn more about Navigation](https://example.com/navigation)
+[Learn more about Navigation](https://docs.flutter.dev/ui/navigation)
 
 ### 2. New Widgets
 We have implemented and utilized several new widgets provided by Flutter, enhancing the user interface and user experience of the application.
