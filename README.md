@@ -8,48 +8,18 @@ This readme provides an overview of a mobile application built in Flutter, highl
 ### 1. Navigation between Screens
 The application includes multiple screens that allow users to navigate between different sections and functionalities seamlessly.
 
-Example Image:
-
-| Navigation |
-| --- |
-| ![Navigation](https://example.com/navigation.png) |
-
 [Learn more about Navigation](https://docs.flutter.dev/ui/navigation)
 
-### 2. New Widgets
-We have implemented and utilized several new widgets provided by Flutter, enhancing the user interface and user experience of the application.
-
-Example Image:
-
-| New Widgets |
-| --- |
-| ![New Widgets](https://example.com/new_widgets.png) |
-
-[Learn more about New Widgets](https://example.com/new_widgets)
-
-### 3. Buttons and Variants
+### 2. Buttons and Variants
 The application incorporates different types of buttons and their variants, offering a visually appealing and interactive user interface.
 
 Example Image:
 
-| Buttons |
+| IOS |
 | --- |
-| ![Buttons](https://example.com/buttons.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/887673e8-e237-4563-b98f-b2df739ca856" alt="drawing" width="300"/> |
 
-[Learn more about Buttons](https://example.com/buttons)
-
-### 4. Custom Buttons
-We have designed and implemented custom buttons to cater to the unique requirements and branding of our application.
-
-Example Image:
-
-| Custom Buttons |
-| --- |
-| ![Custom Buttons](https://example.com/custom_buttons.png) |
-
-[Learn more about Custom Buttons](https://example.com/custom_buttons)
-
-### 5. Cards
+### 3. Cards
 The application utilizes cards to present information in an organized and visually appealing manner.
 
 Example Image:
