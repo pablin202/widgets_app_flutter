@@ -102,7 +102,7 @@ Example Image:
 | --- |
 | ![Go_Router](https://example.com/go_router.png) |
 
-[Learn more about Go_Router](https://example.com/go_router)
+[Learn more about Go_Router](https://pub.dev/packages/go_router)
 
 ### 10. Paths
 By utilizing paths, we have implemented a clean and structured routing system within our application, improving overall navigation.
