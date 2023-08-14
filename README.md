@@ -22,38 +22,20 @@ Example Image:
 ### 3. Cards
 The application utilizes cards to present information in an organized and visually appealing manner.
 
-Example Image:
-
-| Cards |
+| IOS |
 | --- |
-| ![Cards](https://example.com/cards.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/8531f6c3-a428-4123-97ac-67e626700df2" alt="drawing" width="300"/> |
 
-[Learn more about Cards](https://example.com/cards)
+[Learn more about Cards](https://api.flutter.dev/flutter/material/Card-class.html)
 
-### 6. Custom Cards
-In addition to the default card implementation, we have created custom cards that provide a more tailored and branded look and feel.
 
-Example Image:
-
-| Custom Cards |
-| --- |
-| ![Custom Cards](https://example.com/custom_cards.png) |
-
-[Learn more about Custom Cards](https://example.com/custom_cards)
-
-### 7. Align
+### 4. Align
 The align feature in Flutter has been employed to precisely position and align various elements within the application's screens.
 
-Example Image:
-
-| Align |
-| --- |
-| ![Align](https://example.com/align.png) |
-
-[Learn more about Align](https://example.com/align)
+[Learn more about Align](https://api.flutter.dev/flutter/widgets/Align-class.html)
 
 ### 8. Flutter Native Routing
-The application utilizes Flutter's native routing system to manage navigation and screen transitions efficiently.
+The application utilises Flutter's native routing system to efficiently manage navigation and screen transitions.
 
 Example Image:
 
