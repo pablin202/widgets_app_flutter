@@ -34,16 +34,24 @@ The align feature in Flutter has been employed to precisely position and align v
 
 [Learn more about Align](https://api.flutter.dev/flutter/widgets/Align-class.html)
 
-### 8. Flutter Native Routing
-The application utilises Flutter's native routing system to efficiently manage navigation and screen transitions.
 
-Example Image:
+### 5. ProgressIndicators
+The application utilizes ProgressIndicators to visually indicate ongoing operations or tasks, enhancing user feedback and experience.
 
-| Flutter Native Routing |
+
+| IOS |
 | --- |
-| ![Flutter Native Routing](https://example.com/flutter_native_routing.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/61890129-ace8-4cb2-8a7a-4da42feeb9f5" alt="drawing" width="300"/> |
 
-[Learn more about Flutter Native Routing](https://example.com/flutter_native_routing)
+[Learn more about ProgressIndicators](https://api.flutter.dev/flutter/material/ProgressIndicator-class.html)
+
+### 6. Linear and Circular ProgressIndicators
+Both linear and circular ProgressIndicators have been implemented to cater to different use cases within the application.
+
+
+[Learn more about Linear ProgressIndicator](https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html)
+
+[Learn more about Circular ProgressIndicator](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)
 
 ### 9. Go_Router
 We have incorporated the Go_Router package, a third-party library, to enhance the routing capabilities of our application.
@@ -121,36 +129,6 @@ Example Image:
 | ![InfiniteScroll](https://example.com/infinite_scroll.png) |
 
 [Learn more about InfiniteScroll](https://example.com/infinite_scroll)
-
-### 16. ProgressIndicators
-The application utilizes ProgressIndicators to visually indicate ongoing operations or tasks, enhancing user feedback and experience.
-
-Example Image:
-
-| ProgressIndicators |
-| --- |
-| ![ProgressIndicators](https://example.com/progress_indicators.png) |
-
-[Learn more about ProgressIndicators](https://example.com/progress_indicators)
-
-### 17. Linear and Circular ProgressIndicators
-Both linear and circular ProgressIndicators have been implemented to cater to different use cases within the application.
-
-Example Image (Linear ProgressIndicator):
-
-| Linear ProgressIndicator |
-| --- |
-| ![Linear ProgressIndicator](https://example.com/linear_progress_indicator.png) |
-
-[Learn more about Linear ProgressIndicator](https://example.com/linear_progress_indicator)
-
-Example Image (Circular ProgressIndicator):
-
-| Circular ProgressIndicator |
-| --- |
-| ![Circular ProgressIndicator](https://example.com/circular_progress_indicator.png) |
-
-[Learn more about Circular ProgressIndicator](https://example.com/circular_progress_indicator)
 
 ### 18. Controlled Animations
 We have incorporated controlled animations to enhance the visual appeal and interactivity of the application, providing an engaging user experience.
