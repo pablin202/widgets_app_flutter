@@ -30,6 +30,11 @@ const appMenuItems = <MenuItem>[
       link: '/progress',
       icon: Icons.refresh_outlined),
   MenuItem(
+      title: 'SnackBar',
+      subTitle: 'Screens Indicators',
+      link: '/snackbar',
+      icon: Icons.info_outline),
+  MenuItem(
       title: 'Animated',
       subTitle: 'Custom Animations',
       link: '/animated',
@@ -39,11 +44,6 @@ const appMenuItems = <MenuItem>[
       subTitle: 'Fancy Cards',
       link: '/tutorial',
       icon: Icons.book),
-  MenuItem(
-      title: 'SnackBar',
-      subTitle: 'Fancy Cards',
-      link: '/snackbar',
-      icon: Icons.credit_card),
   MenuItem(
       title: 'Cards',
       subTitle: 'Fancy Cards',
