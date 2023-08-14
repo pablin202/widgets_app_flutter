@@ -146,9 +146,9 @@ Snackbars are used to display brief messages or notifications to users, ensuring
 
 Example Image:
 
-| Snackbars |
+| IOS |
 | --- |
-| ![Snackbars](https://example.com/snackbars.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/afd27580-6087-4a40-977c-effadda793f7" alt="drawing" width="300"/> |
 
 [Learn more about Snackbars](https://docs.flutter.dev/cookbook/design/snackbars)
 
