@@ -135,11 +135,11 @@ We have incorporated controlled animations to enhance the visual appeal and inte
 
 Example Image:
 
-| Controlled Animations |
+| IOS |
 | --- |
-| ![Controlled Animations](https://example.com/controlled_animations.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/afd27580-6087-4a40-977c-effadda793f7" alt="drawing" width="300"/> |
 
-[Learn more about Controlled Animations](https://example.com/controlled_animations)
+[Learn more about Controlled Animations](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)
 
 ### 19. Snackbars
 Snackbars are used to display brief messages or notifications to users, ensuring important information is effectively communicated.
