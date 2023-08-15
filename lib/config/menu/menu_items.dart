@@ -45,8 +45,8 @@ const appMenuItems = <MenuItem>[
       link: '/controls',
       icon: Icons.car_rental_outlined),
   MenuItem(
-      title: 'Cards',
-      subTitle: 'Fancy Cards',
-      link: '/cards',
-      icon: Icons.credit_card)
+      title: 'Page Views',
+      subTitle: 'Intro tutorial',
+      link: '/tutorial',
+      icon: Icons.accessibility_rounded)
 ];
