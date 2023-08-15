@@ -204,9 +204,9 @@ By implementing PageViews, the application enables users to navigate horizontall
 
 Example Image:
 
-| PageViews |
+| IOS |
 | --- |
-| ![PageViews](https://example.com/page_views.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/3f8d86ac-6e24-41b0-b8c7-b51db57d8a8d" alt="drawing" width="300"/> |
 
 [Learn more about PageViews](https://api.flutter.dev/flutter/widgets/PageView-class.html)
 
