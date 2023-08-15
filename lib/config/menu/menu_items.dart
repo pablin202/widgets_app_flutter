@@ -40,10 +40,10 @@ const appMenuItems = <MenuItem>[
       link: '/animated',
       icon: Icons.animation),
   MenuItem(
-      title: 'Tutorial',
-      subTitle: 'Fancy Cards',
-      link: '/tutorial',
-      icon: Icons.book),
+      title: 'Ui Controls',
+      subTitle: 'UI Flutter controls',
+      link: '/controls',
+      icon: Icons.car_rental_outlined),
   MenuItem(
       title: 'Cards',
       subTitle: 'Fancy Cards',

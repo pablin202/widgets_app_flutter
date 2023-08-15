@@ -53,7 +53,7 @@ final GoRouter appRouter = GoRouter(
           },
         ),
         GoRoute(
-          path: 'uicontrols',
+          path: 'controls',
           builder: (BuildContext context, GoRouterState state) {
             return const UiControlsScreen();
           },
