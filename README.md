@@ -155,13 +155,12 @@ Example Image:
 ### 20. Dialogs
 The application includes dialog boxes to prompt users for input, display additional information, or request confirmation for certain actions
 
-.
 
 Example Image:
 
-| Dialogs |
+| IOS |
 | --- |
-| ![Dialogs](https://example.com/dialogs.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/ddffc27e-3522-4cbf-bd34-585ea5611f81" alt="drawing" width="300"/> |
 
 [Learn more about Dialogs](https://api.flutter.dev/flutter/material/Dialog-class.html)
 
@@ -170,11 +169,11 @@ We have included licenses for any third-party libraries or assets used within th
 
 Example Image:
 
-| Licenses |
+| IOS |
 | --- |
-| ![Licenses](https://example.com/licenses.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/54389360-f087-4a0d-b173-e08104ff8091" alt="drawing" width="300"/> |
 
-[Learn more about Licenses](https://example.com/licenses)
+[Learn more about Licenses](https://api.flutter.dev/flutter/material/AboutDialog-class.html)
 
 ### 22. Switches, Checkboxes, Radios
 The application utilizes switches, checkboxes, and radio buttons to provide users with options and enable interactive selection.
