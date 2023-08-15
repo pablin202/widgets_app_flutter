@@ -133,11 +133,12 @@ Example Image:
 ### 18. Controlled Animations
 We have incorporated controlled animations to enhance the visual appeal and interactivity of the application, providing an engaging user experience.
 
+
 Example Image:
 
 | IOS |
 | --- |
-| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/afd27580-6087-4a40-977c-effadda793f7" alt="drawing" width="300"/> |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/ed37a6ab-a9a7-4ed2-add6-d612abd62890" alt="drawing" width="300"/> |
 
 [Learn more about Controlled Animations](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)
 
