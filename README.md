@@ -181,31 +181,21 @@ The application utilizes switches, checkboxes, and radio buttons to provide user
 
 Example Image:
 
-| Switches, Checkboxes, Radios |
+| IOS |
 | --- |
-| ![Switches, Checkboxes, Radios](https://example.com/switches_checkboxes_radios.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/cff0e8df-ad32-405a-871e-f1e24fe2fd31" alt="drawing" width="300"/> |
 
 [Learn more about Switches, Checkboxes, Radios](https://api.flutter.dev/flutter/material/Checkbox-class.html)
 
 ### 23. Tiles
 Tiles are employed within the application to present information or actions in a compact and visually appealing format.
 
-Example Image:
-
-| Tiles |
-| --- |
-| ![Tiles](https://example.com/tiles.png) |
 
 [Learn more about Tiles](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
 ### 24. Lists
 The application incorporates lists to display collections of data in a scrollable and organized manner, ensuring efficient data presentation.
 
-Example Image:
-
-| Lists |
-| --- |
-| ![Lists](https://example.com/lists.png) |
 
 [Learn more about Lists](https://docs.flutter.dev/cookbook/lists)
 
