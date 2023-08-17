@@ -113,22 +113,15 @@ The application features a RefreshIndicator widget that enables users to refresh
 
 Example Image:
 
-| RefreshIndicator |
+| IOS |
 | --- |
-| ![RefreshIndicator](https://example.com/refresh_indicator.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/51c8bb0b-574e-4aa7-bc51-e134b1883b84" alt="drawing" width="300"/> |
 
-[Learn more about RefreshIndicator](https://example.com/refresh_indicator)
+[Learn more about RefreshIndicator](https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
 
 ### 15. InfiniteScroll
 Incorporating InfiniteScroll functionality allows the application to dynamically load additional content as the user scrolls, providing a smooth and continuous experience.
 
-Example Image:
-
-| InfiniteScroll |
-| --- |
-| ![InfiniteScroll](https://example.com/infinite_scroll.png) |
-
-[Learn more about InfiniteScroll](https://example.com/infinite_scroll)
 
 ### 18. Controlled Animations
 We have incorporated controlled animations to enhance the visual appeal and interactivity of the application, providing an engaging user experience.
