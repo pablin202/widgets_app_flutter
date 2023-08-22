@@ -8,6 +8,12 @@ This readme provides an overview of a mobile application built in Flutter, highl
 ### 1. Navigation between Screens
 The application includes multiple screens that allow users to navigate between different sections and functionalities seamlessly.
 
+
+| Light Mode | Dark Mode |
+| --- | --- |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/bab52ad4-db4f-4578-aedd-a5ef18ddbd36" alt="drawing" width="300"/> | <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/1085359c-81e4-4e9a-af92-770ac6f6133a" alt="drawing" width="300"/> |
+
+
 [Learn more about Navigation](https://docs.flutter.dev/ui/navigation)
 
 ### 2. Buttons and Variants
@@ -53,62 +59,12 @@ Both linear and circular ProgressIndicators have been implemented to cater to di
 
 [Learn more about Circular ProgressIndicator](https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html)
 
-### 9. Go_Router
+### 7. Go_Router
 We have incorporated the Go_Router package, a third-party library, to enhance the routing capabilities of our application.
-
-Example Image:
-
-| Go_Router |
-| --- |
-| ![Go_Router](https://example.com/go_router.png) |
 
 [Learn more about Go_Router](https://pub.dev/packages/go_router)
 
-### 10. Paths
-By utilizing paths, we have implemented a clean and structured routing system within our application, improving overall navigation.
-
-Example Image:
-
-| Paths |
-| --- |
-| ![Paths](https://example.com/paths.png) |
-
-[Learn more about Paths](https://example.com/paths)
-
-### 11. Router Configurations
-The application's router has been configured to handle specific routes and ensure proper screen transitions and functionality.
-
-Example Image:
-
-| Router Configurations |
-| --- |
-| ![Router Configurations](https://example.com/router_configurations.png) |
-
-[Learn more about Router Configurations](https://example.com/router_configurations)
-
-### 12. Custom Router Implementation
-We have developed a custom router implementation that caters to the unique requirements of our application, providing a seamless user experience.
-
-Example Image:
-
-| Custom Router Implementation |
-| --- |
-| ![Custom Router Implementation](https://example.com/custom_router.png) |
-
-[Learn more about Custom Router Implementation](https://example.com/custom_router)
-
-### 13. Third-Party Router Implementation
-In addition to our custom router, we have explored and utilized a third-party router implementation to enhance the application's routing capabilities.
-
-Example Image:
-
-| Third-Party Router Implementation |
-| --- |
-| ![Third-Party Router Implementation](https://example.com/third_party_router.png) |
-
-[Learn more about Third-Party Router Implementation](https://example.com/third_party_router)
-
-### 14. RefreshIndicator
+### 8. RefreshIndicator
 The application features a RefreshIndicator widget that enables users to refresh the content by pulling down the screen.
 
 Example Image:
@@ -119,11 +75,11 @@ Example Image:
 
 [Learn more about RefreshIndicator](https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
 
-### 15. InfiniteScroll
+### 9. InfiniteScroll
 Incorporating InfiniteScroll functionality allows the application to dynamically load additional content as the user scrolls, providing a smooth and continuous experience.
 
 
-### 18. Controlled Animations
+### 10. Controlled Animations
 We have incorporated controlled animations to enhance the visual appeal and interactivity of the application, providing an engaging user experience.
 
 
@@ -135,7 +91,7 @@ Example Image:
 
 [Learn more about Controlled Animations](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)
 
-### 19. Snackbars
+### 11. Snackbars
 Snackbars are used to display brief messages or notifications to users, ensuring important information is effectively communicated.
 
 Example Image:
@@ -146,7 +102,7 @@ Example Image:
 
 [Learn more about Snackbars](https://docs.flutter.dev/cookbook/design/snackbars)
 
-### 20. Dialogs
+### 12. Dialogs
 The application includes dialog boxes to prompt users for input, display additional information, or request confirmation for certain actions
 
 
@@ -158,7 +114,7 @@ Example Image:
 
 [Learn more about Dialogs](https://api.flutter.dev/flutter/material/Dialog-class.html)
 
-### 21. Licenses
+### 13. Licenses
 We have included licenses for any third-party libraries or assets used within the application, ensuring compliance with license requirements.
 
 Example Image:
@@ -169,7 +125,7 @@ Example Image:
 
 [Learn more about Licenses](https://api.flutter.dev/flutter/material/AboutDialog-class.html)
 
-### 22. Switches, Checkboxes, Radios
+### 14. Switches, Checkboxes, Radios
 The application utilizes switches, checkboxes, and radio buttons to provide users with options and enable interactive selection.
 
 Example Image:
@@ -180,19 +136,19 @@ Example Image:
 
 [Learn more about Switches, Checkboxes, Radios](https://api.flutter.dev/flutter/material/Checkbox-class.html)
 
-### 23. Tiles
+### 15. Tiles
 Tiles are employed within the application to present information or actions in a compact and visually appealing format.
 
 
 [Learn more about Tiles](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
-### 24. Lists
+### 16. Lists
 The application incorporates lists to display collections of data in a scrollable and organized manner, ensuring efficient data presentation.
 
 
 [Learn more about Lists](https://docs.flutter.dev/cookbook/lists)
 
-### 25. PageViews
+### 17. PageViews
 By implementing PageViews, the application enables users to navigate horizontally through multiple pages or sections, enhancing content exploration and user interaction.
 
 Example Image:
@@ -203,25 +159,25 @@ Example Image:
 
 [Learn more about PageViews](https://api.flutter.dev/flutter/widgets/PageView-class.html)
 
-### 26. Drawers
+### 18. Drawers
 The application features a Drawer widget, providing a side menu that can be accessed by swiping or tapping an icon, offering additional navigation options.
 
 Example Image:
 
-| Drawers |
+| IOS |
 | --- |
-| ![Drawers](https://example.com/drawers.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/24b82b38-5fa3-4dbb-b96d-d7861d18cc14" alt="drawing" width="300"/> |
 
 [Learn more about Drawers](https://docs.flutter.dev/cookbook/design/drawer)
 
-### 27. Riverpod State Management
+### 19. Riverpod State Management
 We have implemented the Riverpod state management system, which provides a simple and intuitive way to manage application state and dependencies.
 
 Example Image:
 
-| Riverpod State Management |
+| IOS |
 | --- |
-| ![Riverpod State Management](https://example.com/riverpod_state_management.png) |
+| <img src="https://github.com/pablin202/widgets_app_flutter/assets/8398530/bb304682-8f3d-4d6f-9518-b3911daae6ff" alt="drawing" width="300"/> |
 
 [Learn more about Riverpod State Management](https://riverpod.dev/)
 
